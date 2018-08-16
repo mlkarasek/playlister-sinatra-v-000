@@ -1,5 +1,5 @@
 class ArtistsController < ApplicationController
 
-  get '/' do 
+  get '/' do
     erb :index 
 end
